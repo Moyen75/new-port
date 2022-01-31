@@ -1,0 +1,28 @@
+.card-1{
+    height: 250px;
+    background-image: url('../images/projects/assignment-10-e5779.web.app_\(iPad\ Pro\).png');
+    background-position: top;
+    overflow: hidden;
+    object-fit: cover;
+    background-size: 100%;
+    transition: all 4s linear;
+    position: relative;
+}
+.card-1:hover{
+    background-position: bottom;
+}
+.card-2{
+    background-image: url('../images//projects/screencapture-hotel-pro-max-web-app-2021-12-29-11_09_08.png');
+}
+.card-3{
+    background-image: url('../images/projects/assignment-12-782e1.web.app_\(iPad\ Pro\).png');
+}
+.card-4{
+    background-image: url('../images/projects/doctors-portal-37851.web.app_\(iPad\).png');
+}
+.card-5{
+    background-image: url('../images/projects/gifted-spence-60c3e3.netlify.app_\(iPad\ Pro\).png');
+}
+.card-6{
+    background-image: url('../images/projects/laughing-almeida-093716.netlify.app_\(iPad\ Pro\).png');
+}
